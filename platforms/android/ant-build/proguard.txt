@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.keith.canvascameraplugin.CanvasCameraView { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.tobi.test.CordovaApp { <init>(...); }
+
